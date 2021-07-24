@@ -1,0 +1,3 @@
+pymilvus-orm==2.0.0rc2
+pymongo
+pysqlite3
